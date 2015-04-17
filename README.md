@@ -4,7 +4,7 @@ I'm trying to learn about how money works. Coming at it from a "morality of mone
 
 My starting point is an intuitive feeling that making money from money could be immoral. It's something I'm not interested in doing as it feels like I should do some work for money. It is often possible for people to get money through no effort or merit of their own, so being able to earn money from that money doesn't seem quite right.
 
-It also seems strange to me that I would partake in something I have very little understanding of. I don't think many people really understand how money works at a deep level, yet are happy to partake in the system not just casually but as a major part of their life. I would like to have at least *some* idea of the impacts of my actions for the wider society I live in and this is hard to evaluate without even know what those impacts are.
+It also seems strange to me that I would partake in something I have very little understanding of. I don't think many people really understand how money works at a deep level, yet are happy to partake in the system not just casually but as a major part of their life. I would like to have at least *some* idea of the impacts of my actions for the wider society I live in and this is hard to evaluate without even knowing what those impacts are.
 
 I'm just at the beginning of trying to base my thoughts in a deeper knowledge and understanding of this topic though. Whilst I have an opinionated/idealogical starting point I want to try and minimise the impact of this on my research (but not my judgement).
 
@@ -45,12 +45,13 @@ says 40% of our prices is made up of usary passed down the chain
 
 a key part of the video: https://www.youtube.com/watch?feature=player_detailpage&v=luIvylMyMOE#t=1928
 
-* he says it is bad because the people with the money are working when they get the money (kind of)
+* he says it is bad because the people with the money are not working when they get the money (kind of)
 * he differentiated earned vs unearned income
 * QUESTION: what is "earned" income
 * argues ending redistribution, in any direction
 * issue of passing wealth down through family
 * money creation? creates money when you get it, disppears once get repaid? huh?
+  * this turns out to be a facinating concept, see Bank of England and positivemoney.org links below for more, have yet to really pick it apart yet
 * compound interest. has a compounding period, then the income earned goes back into the main fund.
 * fractional reserve lending? what is this?
 
