@@ -10,8 +10,6 @@ This repository is intended to be a working brain dump of my progress on the top
 
 ## Michael Sandel
 
-(has his own micro/local/alternative currency, ex "corporate" man)
-
 https://www.youtube.com/watch?v=GvDpYHyBlgc&spfreload=10
 
 concept of market goods vs "higher level" goods
@@ -33,6 +31,8 @@ stupid video, couldn't watch it all. but I'd like to understand his arguments in
 he quotes somebody saying money is time and energy and nothing else. which is absurd. time and energy can't be stored in a bank account. or transferred. or invested (directly). and you can spend time and energy without it being related to money.
 
 ## Anthony Migchels
+
+(has his own micro/local/alternative currency, ex "corporate" man)
 
 https://realcurrencies.wordpress.com/
 
