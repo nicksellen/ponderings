@@ -57,15 +57,28 @@ a key part of the video: https://www.youtube.com/watch?feature=player_detailpage
 
 related:
 
-bank of england reports (haven't read them yet):
+bank of england reports:
 
 * http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneyintro.pdf
+  * https://www.youtube.com/watch?v=ziTE32hiWdk video linked from article
+  * opening concept seems fine to me. money as a universal exchange of value. fisherman sells fish for money. uses money to buy berries at some other point. seems an uncontroversial and useful thing.
+  * means don't need n^2 trust arrangements, just n
+  * "fiat" (paper money) vs gold backed
+    * allows more control of money in economy as not linked to physical resource
+    * UK abandoned gold standard in 1931
+  * 3 types of money
+    1. currency (notes and coins 3%) IOU central bank <-> you
+    2. bank reserves (money in peoples bank accounts) IOU your bank <-> you
+    3. central bank reserves IOU central bank <-> your bank
+  * "broad money" - the money available to consumers (type 1 and 2 above)
+  * "base money" - IOUs from central bacnk (type 1 and 3 above)
+  * currency seems to be both broad money and base money? correct?
 * http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneycreation.pdf
 
 positivemoney "We’re a movement for a money and banking system that works for society and not against it."
 haven't read it yet:
 
+* http://www.positivemoney.org/2014/03/bank-england-money-money-creation-modern-economy/  
 * http://www.positivemoney.org/how-money-works/proof-that-banks-create-money/
-* http://www.positivemoney.org/2014/03/bank-england-money-money-creation-modern-economy/
 
 
