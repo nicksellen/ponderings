@@ -4,6 +4,10 @@ brother recommends - 'this book is likely mandatory reading. very recent. made a
 
 http://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192/ref=sr_1_1?s=books&ie=UTF8&qid=1429278677&sr=1-1&keywords=debt
 
+````
+Here anthropologist David Graeber presents a stunning reversal of conventional wisdom: he shows that before there was money, there was debt. For more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.
+````
+
 # people
 
 e.f schumacher
