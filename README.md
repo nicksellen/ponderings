@@ -1,6 +1,6 @@
 # money notes and ponderings
 
-I'm trying to learn about how money works.
+I'm trying to learn about how money works. Coming at it from a "morality of money" angle (to start with).
 
 My starting point is an intuitive feeling that making money from money could be immoral. It's something I'm not interested in doing as it feels like I should do some work for money. It is often possible for people to get money through no effort or merit of their own, so being able to earn money from that money doesn't seem quite right.
 
