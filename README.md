@@ -10,8 +10,6 @@ This repository is intended to be a working brain dump of my progress on the top
 
 ## Michael Sandel
 
-(has his own micro/local/alternative currency, ex "corporate" man)
-
 https://www.youtube.com/watch?v=GvDpYHyBlgc&spfreload=10
 
 concept of market goods vs "higher level" goods
@@ -34,9 +32,10 @@ he quotes somebody saying money is time and energy and nothing else. which is ab
 
 ## Anthony Migchels
 
-https://realcurrencies.wordpress.com/
+(has his own micro/local/alternative currency, ex "corporate" man)
 
-https://www.youtube.com/watch?v=luIvylMyMOE
+* https://realcurrencies.wordpress.com/
+* https://www.youtube.com/watch?v=luIvylMyMOE
 
 too radical sounding for my liking. full of emotional language and asserted truths. but I think he likely has some very good points to consider. just gotta extract them....
 
@@ -44,26 +43,26 @@ says 40% of our prices is made up of usary passed down the chain
 
 a key part of the video: https://www.youtube.com/watch?feature=player_detailpage&v=luIvylMyMOE#t=1928
 
-he says it is bad because the people with the money are working when they get the money (kind of)
-he differentiated earned vs unearned income
-QUESTION: what is "earned" income
-argues ending redistribution, in any direction
-issue of passing wealth down through family
-money creation? creates money when you get it, disppears once get repaid? huh?
-
-compound interest. has a compounding period, then the income earned goes back into the main fund.
-
-fractional reserve lending? what is this?
+* he says it is bad because the people with the money are working when they get the money (kind of)
+* he differentiated earned vs unearned income
+* QUESTION: what is "earned" income
+* argues ending redistribution, in any direction
+* issue of passing wealth down through family
+* money creation? creates money when you get it, disppears once get repaid? huh?
+* compound interest. has a compounding period, then the income earned goes back into the main fund.
+* fractional reserve lending? what is this?
 
 related:
 
 bank of england reports (haven't read them yet):
-http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneyintro.pdf
-http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneycreation.pdf
+
+* http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneyintro.pdf
+* http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneycreation.pdf
 
 positivemoney "We’re a movement for a money and banking system that works for society and not against it."
 haven't read it yet:
-http://www.positivemoney.org/how-money-works/proof-that-banks-create-money/
-http://www.positivemoney.org/2014/03/bank-england-money-money-creation-modern-economy/
+
+* http://www.positivemoney.org/how-money-works/proof-that-banks-create-money/
+* http://www.positivemoney.org/2014/03/bank-england-money-money-creation-modern-economy/
 
 
