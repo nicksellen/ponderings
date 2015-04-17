@@ -4,6 +4,8 @@ I'm trying to learn about how money works. Coming at it from a "morality of mone
 
 My starting point is an intuitive feeling that making money from money could be immoral. It's something I'm not interested in doing as it feels like I should do some work for money. It is often possible for people to get money through no effort or merit of their own, so being able to earn money from that money doesn't seem quite right.
 
+It also seems strange to me that I would partake in something I have very little understanding of. I don't think many people really understand how money works at a deep level, yet are happy to partake in the system not just casually but as a major part of their life. I would like to have at least *some* idea of the impacts of my actions for the wider society I live in and this is hard to evaluate without even know what those impacts are.
+
 I'm just at the beginning of trying to base my thoughts in a deeper knowledge and understanding of this topic though. Whilst I have an opinionated/idealogical starting point I want to try and minimise the impact of this on my research (but not my judgement).
 
 This repository is intended to be a working brain dump of my progress on the topic (as I'm trying to be more open in life). I would welcome constructive and unbiased contributions on this topic :)
