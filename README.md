@@ -104,6 +104,6 @@ I'm intrigued by the "moneyless" movement. First thoughts (mostly off the top of
 * isn't it just going to end up using *someone elses* money?
 * is it meant to be a way of living everybody could/should do (if so, there is a much higher burden of evidence that it would work en masse, as opposed to an individual life choice)
 * if the chance of mass adoption is low (<1%? <0.1%?) is it worth persuing? how many people need to adopt it for it to be worthwhile? (1? 1000? 1m? 1b?)
-* if it's not a way of life for all, can it exist and accept itself as "one of many" ways of life, what should the iteraction with non-moneyless cultures be
+* if it's not a way of life for all, can it exist and accept itself as "one of many" ways of life, what should the interaction with non-moneyless cultures be
 
 Much of this might be answered if I can get around to actually reading http://www.moneylessmanifesto.org/book/foreword-by-charles-eisenstein/
