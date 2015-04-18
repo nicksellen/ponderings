@@ -74,6 +74,18 @@ bank of england reports:
   * "base money" - IOUs from central bacnk (type 1 and 3 above)
   * currency seems to be both broad money and base money? correct?
 * http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneycreation.pdf
+  * banks aren't just storing peoples money and lending it out
+  * they don't "multiply" central bank money to create loans/deposits
+  * "Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower’s bank account, thereby creating new money." - sounds crazy!
+  * paying back debt "destroys" money (less money is floating around in the system afterwards)
+  * setting interest rates and quantitative easing are the "levers" the central
+  * qe:
+    * quantative easing is for "exceptional" circumstances
+    * don't really get what it is. some people call it "printing money"
+      document says "purchasing assets, mainly from non-bank financial companies"
+      * what is a non-bank financial company?
+    * "As a by-product of QE, new central bank reserves are created. ... these reserves do not represent ‘free money’ for banks."
+  * "Saving does not by itself increase the deposits or ‘funds available’ for banks to lend."
 
 positivemoney "We’re a movement for a money and banking system that works for society and not against it."
 haven't read it yet:
