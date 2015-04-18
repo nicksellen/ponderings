@@ -81,4 +81,17 @@ haven't read it yet:
 * http://www.positivemoney.org/2014/03/bank-england-money-money-creation-modern-economy/  
 * http://www.positivemoney.org/how-money-works/proof-that-banks-create-money/
 
+# moneyless
 
+I'm intrguied by the "moneyless" movement. First thoughts (mostly off the top of my head):
+
+* it's full of glaring contradictions e.g. "click here to buy the moneyless manifesto" (http://www.moneylessmanifesto.org/get-a-copy/) - I am sure the manifesto has a position on this, I don't think they *didn't notice* this!
+  * *"If you do buy a normal paperback copy of this book, your money is going towards two things – the cost of printing a book in a money-based economy, which is a reality of our Age"* - sounds pessimistic about the reality of change before I've even "opened" the book!
+* does this mean we have to go back to barter? (I'd have to find a baker that needs some programming work done to get some bread)
+* does it *really* need to be *totally* moneyless, can't the role of money just be reduced. why be so binary about it?
+* isn't it just going to end up using *someone elses* money?
+* is it meant to be a way of living everybody could/should do (if so, there is a much higher burden of evidence that it would work en masse, as opposed to an individual life choice)
+* if the chance of mass adoption is low (<1%? <0.1%?) is it worth persuing? how many people need to adopt it for it to be worthwhile; 1? 1000? 1m? 1b?
+* if it's not a way of live for all, can it exist and accept itself as "one of many" ways of life, what should the iteraction with non-moneyless cultures be
+
+Much of this might be answered if I can get around to actually reading http://www.moneylessmanifesto.org/book/foreword-by-charles-eisenstein/
