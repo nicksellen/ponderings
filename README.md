@@ -116,3 +116,4 @@ Much of this might be answered if I can get around to actually reading http://ww
   * makes "common error" of describing banking as "holding peoples money and lending it out to others" (see bank of england stuff for other model)
   * points out problem of banks going beyond their traditional role into generating profit from risk investments, leading to banking crisis
   * describes alternative systems that try and make it so the motivation is just to help the members (e.g. credit union) or more direct/peer-to-peer systems of finance (crowd funding, micro loans)
+* film: Money for nothing, inside the federal reserve - http://www.imdb.com/title/tt2752724/
