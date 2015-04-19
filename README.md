@@ -107,3 +107,12 @@ I'm intrigued by the "moneyless" movement. First thoughts (mostly off the top of
 * if it's not a way of life for all, can it exist and accept itself as "one of many" ways of life, what should the interaction with non-moneyless cultures be
 
 Much of this might be answered if I can get around to actually reading http://www.moneylessmanifesto.org/book/foreword-by-charles-eisenstein/
+
+## how banking works
+
+* Banking Explained – Money and Credit  https://www.youtube.com/watch?v=fTTGALaRZoc
+  * simple video with slightly patronising tone of voice
+  * origin of word bank, "banco", italian for bench, where italians would exchange coins in lots of different currencies (in 11th century or something? perhaps)
+  * makes "common error" of describing banking as "holding peoples money and lending it out to others" (see bank of england stuff for other model)
+  * points out problem of banks going beyond their traditional role into generating profit from risk investments, leading to banking crisis
+  * describes alternative systems that try and make it so the motivation is just to help the members (e.g. credit union) or more direct/peer-to-peer systems of finance (crowd funding, micro loans)
