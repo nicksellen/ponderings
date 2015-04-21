@@ -53,7 +53,7 @@ a key part of the video: https://www.youtube.com/watch?feature=player_detailpage
 * money creation? creates money when you get it, disppears once get repaid? huh?
   * this turns out to be a facinating concept, see Bank of England and positivemoney.org links below for more, have yet to really pick it apart yet
 * compound interest. has a compounding period, then the income earned goes back into the main fund.
-* fractional reserve lending? what is this?
+* fractional reserve lending? what is this? (start with http://en.wikipedia.org/wiki/Fractional-reserve_banking)
 
 related:
 
