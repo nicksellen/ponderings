@@ -51,7 +51,7 @@ a key part of the video: https://www.youtube.com/watch?feature=player_detailpage
 * argues ending redistribution, in any direction
 * issue of passing wealth down through family
 * money creation? creates money when you get it, disppears once get repaid? huh?
-  * this turns out to be a facinating concept, see Bank of England and positivemoney.org links below for more, have yet to really pick it apart yet
+  * this turns out to be a facinating concept, see Bank of England and positivemoney.org links below for more, have yet to really pick it apart yet (and http://en.wikipedia.org/wiki/Money_creation)
 * compound interest. has a compounding period, then the income earned goes back into the main fund.
 * fractional reserve lending? what is this? (start with http://en.wikipedia.org/wiki/Fractional-reserve_banking)
 
@@ -117,3 +117,5 @@ Much of this might be answered if I can get around to actually reading http://ww
   * points out problem of banks going beyond their traditional role into generating profit from risk investments, leading to banking crisis
   * describes alternative systems that try and make it so the motivation is just to help the members (e.g. credit union) or more direct/peer-to-peer systems of finance (crowd funding, micro loans)
 * film: Money for nothing, inside the federal reserve - http://www.imdb.com/title/tt2752724/
+* balance sheets
+  * see https://github.com/nicksellen/ponderings/issues/1#issuecomment-94922653
