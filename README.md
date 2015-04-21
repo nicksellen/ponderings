@@ -6,6 +6,10 @@ This is the home for my ponderings of life. A public collection in my in-progres
 
 * [money](money.md) - centered around the morality of money
 
+## Got something to say?
+
+Discussion happens [over here](https://github.com/nicksellen/ponderings/issues).
+
 ## Why on github?
 
 The first few people I showed this to thought github is just for code, but:
