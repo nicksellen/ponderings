@@ -26,6 +26,9 @@ So far it seems to be there are 3 ways the future could go:
     * Alan Turing
     * Ray Kurzweil
     * Stephen Hawking
+    * Elon Musk - "With artificial intelligence we are summoning the demon" ([washington post article](http://www.washingtonpost.com/blogs/innovations/wp/2014/10/24/elon-musk-with-artificial-intelligence-we-are-summoning-the-demon/))
+    * Nick Bostrom
+    * "5 Very Smart People Who Think Artificial Intelligence Could Bring the Apocalypse" - http://time.com/3614349/artificial-intelligence-singularity-stephen-hawking-elon-musk/
   * ... and many opponents
     * Paul Allen - http://www.technologyreview.com/view/425733/paul-allen-the-singularity-isnt-near/
     * http://www.patheos.com/blogs/hallq/2013/04/what-should-skeptics-believe-about-the-singularity/
