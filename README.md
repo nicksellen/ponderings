@@ -10,7 +10,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 
 ## Got something to say?
 
-Discussion happens [over here](https://github.com/nicksellen/ponderings/issues).
+Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) - I *love* comments/questions, it motivates me to think more.
 
 ## Why on github?
 
