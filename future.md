@@ -17,6 +17,11 @@ So far it seems to be there are 3 ways the future could go:
   * can envisage sum of all human activity as a higher level meta-organism (in the same way all the people in a company can change but the company continues - what *is* the company?)
 1. computers take over the world
   * http://en.wikipedia.org/wiki/Technological_singularity
+  * companies taking us in this direction:
+    * [Boston Dynamics](http://www.bostondynamics.com/) (bought by google 2013)
+    * [Hanson Robotics](http://www.hansonrobotics.com/)
+    * [DeepMind](http://deepmind.com/) (bought by google 2014)
+    * many car companies making [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car)
   * some pretty prominent people have entertained this idea in some form:
     * Alan Turing
     * Ray Kurzweil
