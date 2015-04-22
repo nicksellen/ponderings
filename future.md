@@ -38,7 +38,7 @@ So far it seems to be there are 3 ways the future could go:
 
 Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings.
 
-Or the *ultimate* end from death of the sun (which would be death of the earth, but maybe humanity has escape in a magical spaceship by then).
+Or the *ultimate* end from death of the sun (which would be death of the earth, but maybe humanity has escaped in a magical spaceship by then).
 
 Whichever one will happen first is the one we should fix, if we don't know which one will happen first, we should work on them all, until we have more information.
 
