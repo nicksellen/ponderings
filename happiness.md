@@ -1,6 +1,6 @@
 # happiness
 
-What is it and how to I get it?
+What is it and how do I get it?
 
 ## contentment vs happiness
 
