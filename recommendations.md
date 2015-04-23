@@ -17,6 +17,8 @@ and creditors.
 
 * *Noam Chomsky on civil liberties, America, Capitalism & Anarchy * https://www.youtube.com/watch?v=h2dzAsBZ30I
   * not sure where this references in my ponderings yet!
+* https://www.youtube.com/watch?v=V7AgXwCJeI8
+  * no idea. haven't watched it
 
 # people
 
