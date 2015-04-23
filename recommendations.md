@@ -13,6 +13,11 @@ this era, Graeber argues, that we also first encounter a society divided into de
 and creditors.
 ````
 
+# videos
+
+* *Noam Chomsky on civil liberties, America, Capitalism & Anarchy * https://www.youtube.com/watch?v=h2dzAsBZ30I
+  * not sure where this references in my ponderings yet!
+
 # people
 
 e.f schumacher
