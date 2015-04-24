@@ -8,11 +8,15 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [the future](future.md) - what will become of this world (or humanity?)
 * [happiness](happiness.md) - what is happiness and how do I get it
 
-## Got something to say?
+## NAQ
+
+(Never Asked Questions)
+
+### How do I comment?
 
 Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) - I *love* comments/questions, it motivates me to think more.
 
-## Why??
+### Why?
 
 * writing my thoughts publically makes me write them a bit more carefully
 * my thoughts are fuzzy and vague in my head, they become more real outside it (and may self desctruct in a cloud of stupidity)
@@ -23,7 +27,7 @@ Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) 
   * in-person debate usually veers dramatically off-course and debates a well-worn set of less interesting topics instead
   * blogs or "point-in-time" publishing systems don't produce an always-up-to-date structured body of thoughts
   
-## Why on github?
+### Why on github?
 
 The first few people I showed this to thought github is just for code, but:
 
