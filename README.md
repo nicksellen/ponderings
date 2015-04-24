@@ -20,7 +20,7 @@ Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) 
 * I think I have *something to say* (we'll find out right?)
 * I get sad at the state of debate in the world
   * news and media normally tell gossipy stories about anything but the underlying topic
-  * in-person debate usually veers dramatic off-course and debates a well-worn set of less interesting topics instead
+  * in-person debate usually veers dramatically off-course and debates a well-worn set of less interesting topics instead
   * blogs or "point-in-time" publishing systems don't produce an always-up-to-date structured body of thoughts
   
 ## Why on github?
