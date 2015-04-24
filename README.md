@@ -12,6 +12,17 @@ This is the home for my ponderings of life. A public collection in my in-progres
 
 Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) - I *love* comments/questions, it motivates me to think more.
 
+## Why??
+
+* writing my thoughts publically makes me write them a bit more carefully
+* my thoughts are fuzzy and vague in my head, they become more real outside it (and may self desctruct in a cloud of stupidity)
+* it provokes debate, which helps me refine the arguments: 1+n minds are better than 1
+* I think I have *something to say* (we'll find out right?)
+* I get sad at the state of debate in the world
+  * news and media normally tell gossipy stories about anything but the underlying topic
+  * in-person debate usually veers dramatic off-course and debates a well-worn set of less interesting topics instead
+  * blogs or "point-in-time" publishing systems don't produce an always-up-to-date structured body of thoughts
+  
 ## Why on github?
 
 The first few people I showed this to thought github is just for code, but:
@@ -23,3 +34,10 @@ The first few people I showed this to thought github is just for code, but:
 * it's free and works well
 * writing in markdown is nice which github supports well, should I wish to turn it into a website, it's pretty trivial
 * I use git/github for all my other writing (code that is) so it's handy to share systems
+
+I was inspired by [Ben Lupton's](http://balupton.com/) use of github for non-code purposes too:
+
+* https://github.com/balupton/plant-vs-animal-products
+* https://github.com/node-forward/mentors
+* https://github.com/balupton/learnings
+* https://github.com/balupton/meta
