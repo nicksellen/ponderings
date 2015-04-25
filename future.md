@@ -49,3 +49,9 @@ The important question is timescale too, is this 1 month (probably not), 1 year,
 ## Structural violence
 
 Something about the difference between ideal and current. http://www.structuralviolence.org/structural-violence/. Haven't read it yet.
+
+## Some resources to pick through
+
+* from http://limist.com/big-picture.html
+  * Institute for the Future - http://iftf.org/home/
+  * The Millenium Project - http://www.millennium-project.org/ (produces a "State of the Future" report)
