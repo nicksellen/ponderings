@@ -54,4 +54,12 @@ Something about the difference between ideal and current. http://www.structuralv
 
 * from http://limist.com/big-picture.html
   * Institute for the Future - http://iftf.org/home/
+    * http://www.emc.com/information-generation/resources/IFTF_EMC_InformationGeneration_ExecutiveSummaryReport.pdf
+      * too business focussed for my liking
+      * 4 big trends: "big data, always-connected mobile devices, social networking and cloud computing" - c'mon! this stuff is already in the history books!
+    * http://www.iftf.org/fileadmin/user_upload/images/ourwork/Tech_Horizons/2015IFTF_TH_HumanPlusMachine_mapface.jpg
+      * a bit more interesting. more from the perspective of how business see's the future though.
+    * worth picking their website a bit more though
   * The Millenium Project - http://www.millennium-project.org/ (produces a "State of the Future" report)
+    * www.millennium-project.org/millennium/201314SOF.html
+      * costs $30. you can keep it mate. anyone wanna give me a copy though?
