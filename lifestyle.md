@@ -6,7 +6,7 @@ I'm not sure exactly what this page is about. I'm often pondering about what kin
 * Could it be lived by anyone on the planet?
 * What draws people to it?
 * Do the people have a certain look?
-* How to people connect with it?
+* How do people initiate themselves into it?
 
 ## Digital nomad
 
