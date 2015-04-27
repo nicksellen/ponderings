@@ -7,6 +7,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [money](money.md) - centered around the morality of money
 * [the future](future.md) - what will become of this world (or humanity?)
 * [happiness](happiness.md) - what is happiness and how do I get it
+* [lifestyle](lifestyle.md) - how to live!
 
 ## NAQ
 
