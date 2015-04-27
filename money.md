@@ -109,6 +109,19 @@ I'm intrigued by the "moneyless" movement. First thoughts (mostly off the top of
 
 Much of this might be answered if I can get around to actually reading http://www.moneylessmanifesto.org/book/foreword-by-charles-eisenstein/
 
+## local or community currencies
+
+You do something. And get some *pretend* currency you can use within the (normally local I guess) community.
+
+* http://www.letslinkuk.net/
+* http://www.timebanking.org/ - not quite sure what this is?
+
+How to structure it?
+
+* should all time be valued the same? (3 hours of dog walking for 3 hours of massage!)
+* how to prevent gaming the system or fraud
+* are there enough useful skills in the pool?
+
 ## how banking works
 
 * Banking Explained – Money and Credit  https://www.youtube.com/watch?v=fTTGALaRZoc
