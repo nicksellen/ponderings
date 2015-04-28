@@ -37,7 +37,7 @@ So far it seems to be there are 3 ways the future could go:
     * http://www.spectator.co.uk/features/9252311/the-sheer-stupidity-of-artificial-intelligence/
       * says "A geek religion that aims to exalt machines instead diminishes humanity"
 
-Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings.
+Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings. A bit more on these in the "perfect new worlds" section below.
 
 Or the *ultimate* end from death of the sun (which would be death of the earth, but maybe humanity has escaped in a magical spaceship by then).
 
@@ -49,7 +49,7 @@ The important question is timescale too, is this 1 month (probably not), 1 year,
 
 ## Perfect new worlds
 
-There are a few projects which are trying to push the vision of the world as the beautiful place it could be. I'd love these to happen :)
+There are a few projects which are trying to push the vision of the world as the beautiful place it could be. I'd love these to happen, I think they need to have an accurate model of the *current* world first. It's one thing to conjure up the magic fairy land in your head, it's another thing entirely to transition our current world into that.
 
 ### The Venus Project
 
