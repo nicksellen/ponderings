@@ -71,9 +71,13 @@ It seems blissfully unaware, or at least does not acknowledge, any of the diffic
 
 > being free of work and financial constraints would enable you to fulfil your dreams
 
+It would be nice if these things were true. I suspect they are not. Without any actual evidence to back them up I have to fall back on my intuition.
+
 > In a free world, people will also respect each other's entitlement to safe dwelling, privacy and security, because that's how they will be taught from the earliest age
 
-It would be nice if these things were true. I suspect they are not. Without any actual evidence to back them up I have to fall back on my intuition.
+This last bit is most ominous to me: *that's how they will be taught*. What if they disagree? Sounds like the seeds of a dictatorship to me.
+
+I lean towards a darker version where there is fundemental conflict between freedom and the dream world. You can never have both. My vote is for freedom, for a bit of chaos, a bit of crime.
 
 ## Structural violence
 
