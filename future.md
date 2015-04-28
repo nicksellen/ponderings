@@ -37,7 +37,7 @@ So far it seems to be there are 3 ways the future could go:
     * http://www.spectator.co.uk/features/9252311/the-sheer-stupidity-of-artificial-intelligence/
       * says "A geek religion that aims to exalt machines instead diminishes humanity"
 
-Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings.
+Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings. This [free world charter](http://www.freeworldcharter.org/en) thing describes a lot of the things I would in the garden of eden world (however it seems blissfully unaware, or at least does not acknolwedge, any of the difficulties in getting there, prefering to state how things *will be*, e.g. "By removing money, you remove the main motivation for greed." - do you?).
 
 Or the *ultimate* end from death of the sun (which would be death of the earth, but maybe humanity has escaped in a magical spaceship by then).
 
