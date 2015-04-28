@@ -37,7 +37,7 @@ So far it seems to be there are 3 ways the future could go:
     * http://www.spectator.co.uk/features/9252311/the-sheer-stupidity-of-artificial-intelligence/
       * says "A geek religion that aims to exalt machines instead diminishes humanity"
 
-Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings. This [free world charter](http://www.freeworldcharter.org/en) thing describes a lot of the things I would in the garden of eden world (however it seems blissfully unaware, or at least does not acknolwedge, any of the difficulties in getting there, prefering to state how things *will be*, e.g. "By removing money, you remove the main motivation for greed." - do you?).
+Well, and magic 4th option, the world I actually *want*, I call it the *garden of eden* :) - it looks a bit like [the shire](http://www.travelphotoadventures.com/wp-content/uploads/2012/12/Hobbiton-in-New-Zealand-by-Michael-Matti.jpg) from lord of the rings.
 
 Or the *ultimate* end from death of the sun (which would be death of the earth, but maybe humanity has escaped in a magical spaceship by then).
 
@@ -46,6 +46,34 @@ Whichever one will happen first is the one we should fix, if we don't know which
 Maybe there are some other options though, this is probably not *all* the ways the future could go.
 
 The important question is timescale too, is this 1 month (probably not), 1 year, 10 years, 100 years, 1000 years?
+
+## Perfect new worlds
+
+There are a few projects which are trying to push the vision of the world as the beautiful place it could be. I'd love these to happen :)
+
+### The Venus Project
+
+https://www.thevenusproject.com/en/
+
+This is a lot to pick through! They are serious!
+
+### The Free World Charter
+
+http://www.freeworldcharter.org/en
+
+It seems blissfully unaware, or at least does not acknowledge, any of the difficulties we face in getting to this dream world. Prefering to state *how things will be*. The [FAQ](http://www.freeworldcharter.org/en/faqs) actually has a lot of the good questions I want to ask, but I'm not convinced by the answers:
+
+> Once people realise there is no longer any real scarcity, and they are a vital part of a community that supports them, greed and selfishness will become unnecessary
+
+> By removing money, you remove the main motivation for greed.
+
+> True incentives to work are passion, flair, helping out, meeting people, wanting to learn. Once money is removed from our lives, people will work with these incentives only
+
+> being free of work and financial constraints would enable you to fulfil your dreams
+
+> In a free world, people will also respect each other's entitlement to safe dwelling, privacy and security, because that's how they will be taught from the earliest age
+
+It would be nice if these things were true. I suspect they are not. Without any actual evidence to back them up I have to fall back on my intuition.
 
 ## Structural violence
 
