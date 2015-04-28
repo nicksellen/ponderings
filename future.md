@@ -21,6 +21,7 @@ So far it seems to be there are 3 ways the future could go:
     * [Boston Dynamics](http://www.bostondynamics.com/) - the mechanical moving part of the robots (bought by google 2013)
     * [Hanson Robotics](http://www.hansonrobotics.com/) - the bit that relates to humans, emotions, facial expressions, etc
     * [DeepMind](http://deepmind.com/) - the brainy bit (bought by google 2014)
+    * [some quadcopters with fancy algorithms](https://www.youtube.com/watch?v=w2itwFJCgFQ) - shows relatively simple physical things being turned into very "organic" moving things with some software and algorithms. The narrator points out: "like all our past creations they may be used to improve the human condition or misused and abused. This is not a technical choice we are faced with, it's a social one."
     * many car companies making [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car)
   * some pretty prominent people have entertained this idea in some form:
     * Alan Turing
