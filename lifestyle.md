@@ -28,6 +28,8 @@ Perhaps partly because it is so commonly mentioned now, I feel more compelled to
 
 I shouldn't be so negative though. It is great that some people can do this, and it's totally possible to do it 100% responsibly, and positively. Your lifestyle doesn't need to be a model for the whole world anyway.
 
+http://allcodesarebeautiful.com/en/digital-nomadism-vision/ gives a nice overview of some positive and negative aspects.
+
 It's also probably the closest to my lifestyle (people are most critical of those most similar to them right? they're the competition!), although I'm more like "semi-nomadic". I have been working from 5 different cities in 3 different countries in the last year, but this is going to slow down now.
 
 ## Squat the planet
