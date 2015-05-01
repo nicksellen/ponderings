@@ -2,9 +2,6 @@
 
 What is it and how do I get it?
 
-http://www.huffingtonpost.com/2015/02/24/happify-happiness-and-hea_n_6738244.html
-http://www.happify.com/public/happify-daily/ <-- get happy! (haven't looked at it much yet)
-
 ## contentment vs happiness
 
 http://m.pnas.org/content/107/38/16489.full
@@ -30,3 +27,9 @@ http://deliveringhappiness.com/book/digital-appendix/
 * Pleasure (Rock Star) - Chasing the next high
 * Passion (Flow and Engagement) - Time flies
 * Higher Purpose Meaning - Being part of something bigger than yourself
+
+## happify
+
+http://www.happify.com/
+
+haven't looked at it much yet an article about it here: http://www.huffingtonpost.com/2015/02/24/happify-happiness-and-hea_n_6738244.html
