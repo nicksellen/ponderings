@@ -9,7 +9,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [happiness](happiness.md) - what is happiness and how do I get it
 * [lifestyle](lifestyle.md) - how to live!
 * [energy](energy.md) - thoughts about energy
-* [reglion](reglion.md) - my thoughts on religion/atheism/humanism, scary!
+* [religion](religion.md) - my thoughts on religion/atheism/humanism, scary!
 * [communications](communications.md) - how to communicate (with me)
 
 ## NAQ
