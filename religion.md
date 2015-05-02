@@ -12,20 +12,31 @@ Some NAQ (never asked questions):
 
 ## Why do you think there is no god?
 
-All the gods I've heard about cannot be subject to any proof - *by their very definition*. This seems a bit suspicious to me, if I *wanted* to conjure up the idea of a god that people would believe in, this would be a key property.
+God seems like something humans would invent.
 
-Also, why does god care so much about the minutae of detail on this one planet, like who I sleep with. Again, it sounds suspciously like the kind of thing humans would come up.
-
-Also also, religion seems to have had to adapt to incoporate various discoveries of science over time (like what?).
-
-## Why would people invent the concept of god if there isn't one?
-
-* we need *some* kind of framework to try to understand things we cannot explain, god is a catch-all explanation
+* all the gods I've heard about cannot be subject to any proof - *by their very definition*
+* god seems to care about the little details of my individual life, like who I sleep with, why would god care about such detail, sounds like something humans would care about
+* religions have had to adapt to various scientific discoveries over time (like what?) to not seem rediculous
+* the god that people find is heavily impacted by where they are born and the cultural background they are born into
 * it works as a great way to get people to live their lives in certain ways (for good or bad)
+
+It also fits that humans would accept such a thing:
+
+* we are desperate for something that gives us purpose, we want to be part of something bigger than ourselves
 * our minds are not rational by default and are prone to fantasy
+* we are easy influenced by others
+* we always need an explaination for everything that is unexplained, there is a lot of unexplained stuff still
 
-When I compare the plausibility of those things happening compared to there being a god, I'm afraid god does not win.
+When I compare the plausibility of humans creating god versus god actually existing, I'm afraid god does not win.
 
-## You can't prove it?
+## Can you prove it?
 
-I don't believe you can prove god exists or not. My lack of belief in god is a faith.
+I don't believe you can prove god exists or not, the definition of god prevents this. My lack of belief in god is therefore a faith.
+
+## Is science your religion?
+
+No. Science is not a religion. It is a methodology of learning about things we can observe (or something like this). If there is a god that is unobservable, science will never find it.
+
+If god exists, god made the rules of science too, the rules could be such that god is observable when you get to a certain depth of observation, but we haven't found one yet.
+
+Humanism is the closest thing to a religion for me.
