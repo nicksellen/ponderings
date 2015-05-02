@@ -1,6 +1,8 @@
 # religion
 
-This is a big topic! And a bit scary actually, I like a world where people are free to have whatever relegion or beliefs they want. I don't discuss this topic very much in person as it usually doesn't go anywhere.
+I want a world where people are free to hold whatever beliefs they want to about anything. I don't want to be part of any system that thinks it can control what *you think*. I also want a world where people will *respect* what other people think, even if that view is difficult to understand.
+
+I don't discuss this topic very much in person as it usually doesn't go anywhere and it gets very personal very quickly. Anyway, on with the topic...
 
 I am an atheist, but that just says I don't believe in God, what do I believe in?
 
@@ -24,8 +26,8 @@ It also fits that humans would accept such a thing:
 
 * we are desperate for something that gives us purpose, we want to be part of something bigger than ourselves
 * our minds are not rational by default and are prone to fantasy
-* we are easy influenced by others
-* we always need an explaination for everything that is unexplained, there is a lot of unexplained stuff still
+* we are easily influenced by others
+* we always want an explanation for everything that is unexplained, there is a lot of unexplained stuff still
 
 When I compare the plausibility of humans creating god versus god actually existing, I'm afraid god does not win.
 
