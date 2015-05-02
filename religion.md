@@ -28,4 +28,4 @@ When I compare the plausibility of those things happening compared to there bein
 
 ## You can't prove it?
 
-I don't believe you can prooe god exists or not. My lack of belief in god is a faith.
+I don't believe you can prove god exists or not. My lack of belief in god is a faith.
