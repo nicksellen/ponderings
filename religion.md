@@ -6,7 +6,7 @@ I don't discuss this topic very much in person as it usually doesn't go anywhere
 
 I am an atheist, but that just says I don't believe in God, what do I believe in?
 
-[Humanism](https://humanism.org.uk/) is the closest thing to a "relgion for atheists" that I've found, and it works for me! It says:
+[Humanism](https://humanism.org.uk/) is the closest thing to a "religion for atheists" that I've found, and it works for me! It says:
 
 > this life is the only life we have, that the universe is a natural phenomenon with no supernatural side, and that we can live ethical and fulfilling lives on the basis of reason and humanity
 
