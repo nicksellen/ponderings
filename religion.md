@@ -16,8 +16,8 @@ God seems like something humans would invent.
 
 * all the gods I've heard about cannot be subject to any proof - *by their very definition*
 * god seems to care about the little details of my individual life, like who I sleep with, why would god care about such detail, sounds like something humans would care about
-* religions have had to adapt to various scientific discoveries over time (like what?) to not seem rediculous
-* the god that people find is heavily impacted by where they are born and the cultural background they are born into
+* religions have had to adapt to various scientific discoveries over time (like what?), if the word came from god, why would it need correcting?
+* the god that people find is heavily affected by where they are born and the cultural background they are born into
 * it works as a great way to get people to live their lives in certain ways (for good or bad)
 
 It also fits that humans would accept such a thing:
