@@ -1,5 +1,18 @@
 # the future of the world
 
+*The Future* emcompasses a lot of concepts. Near future, distant future, eventual death of the planet, etc. So to try and get more structure I think some milestones might be useful:
+
+* Time based
+  * Next 10 years
+  * Next 100 years
+  * Next 1000 years
+* End of ... (not in any particular order)
+  * The planet - sun dies
+  * Humanity - we fuck up
+* The ultimate end of everything (perhaps called "the universe")
+
+At least one of these seems likely to occur and I imagine all of them might occur.
+
 * The Future We Deserve - 100 essays about the future: http://pediapress.com/books/show/ee265024890e40cbe1f8244087e753/
   * could be interesting, I like this topic
   * collections of essays are easier to read for lazy people like me
