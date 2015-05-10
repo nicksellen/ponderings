@@ -93,6 +93,13 @@ This last bit is most ominous to me: *that's how they will be taught*. What if t
 
 I lean towards a darker version where there is fundemental conflict between freedom and the dream world. You can never have both. My vote is for freedom, for a bit of chaos, a bit of crime.
 
+## Institutes, organisations, or campaigns about the future
+
+* [Future of Humanity Institute](http://www.fhi.ox.ac.uk/) University of Oxford - *enables a select set of leading intellects to bring the tools of mathematics, philosophy, and science to bear on big-picture questions about humanity and its prospects*
+* [Institute for the Future](http://iftf.org/) - *an independent, non-profit research organization with a more than 45-year track record of helping all kinds of organizations make the futures they want*
+* [Future of Life Institute](http://futureoflife.org/) - *aimed at keeping AI beneficial to humanity* / *a volunteer-run research and outreach organization working to mitigate existential risks facing humanity. We are currently focusing on potential risks from the development of human-level artificial intelligence*
+* [Campaign to Stop Killer Robots](http://www.stopkillerrobots.org/) - *calls for a pre-emptive and comprehensive ban on the development, production, and use of fully autonomous weapons*
+
 ## Structural violence
 
 Something about the difference between ideal and current. http://www.structuralviolence.org/structural-violence/. Haven't read it yet.
