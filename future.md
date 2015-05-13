@@ -37,6 +37,7 @@ So far it seems to be there are 3 ways the future could go:
     * [IBM's Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - "Watson is built to mirror the same learning process that we have - through the power of cognition"
     * [some quadcopters with fancy algorithms](https://www.youtube.com/watch?v=w2itwFJCgFQ) - shows relatively simple physical things being turned into very "organic" moving things with some software and algorithms. The narrator points out: "like all our past creations they may be used to improve the human condition or misused and abused. This is not a technical choice we are faced with, it's a social one."
     * many car companies making [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car)
+    * [exo skeleton suits](https://www.youtube.com/watch?feature=player_detailpage&v=p2W23ysgWKI#t=85)
   * some pretty prominent people have entertained this idea in some form:
     * Alan Turing
     * Ray Kurzweil
