@@ -10,6 +10,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [lifestyle](lifestyle.md) - how to live!
 * [energy](energy.md) - thoughts about energy
 * [religion](religion.md) - my thoughts on religion/atheism/humanism, scary!
+* [drugs](drugs.md) - drug use/policy
 * [communications](communications.md) - how to communicate (with me)
 
 ## NAQ
