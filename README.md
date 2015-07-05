@@ -5,6 +5,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 ## Topics
 
 * [money](money.md) - centered around the morality of money
+* [politics](politics.md) - something about politics I guess
 * [the future](future.md) - what will become of this world (or humanity?)
 * [happiness](happiness.md) - what is happiness and how do I get it
 * [lifestyle](lifestyle.md) - how to live!
