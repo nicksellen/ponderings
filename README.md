@@ -13,6 +13,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [religion](religion.md) - my thoughts on religion/atheism/humanism, scary!
 * [drugs](drugs.md) - drug use/policy
 * [communications](communications.md) - how to communicate (with me)
+* [miscellaneous](misc.md) - other stuff, I don't know where to put yet
 
 ## NAQ
 
