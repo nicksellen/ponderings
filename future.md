@@ -101,6 +101,7 @@ I lean towards a darker version where there is fundemental conflict between free
 * [Institute for the Future](http://iftf.org/) - *an independent, non-profit research organization with a more than 45-year track record of helping all kinds of organizations make the futures they want*
 * [Future of Life Institute](http://futureoflife.org/) - *aimed at keeping AI beneficial to humanity* / *a volunteer-run research and outreach organization working to mitigate existential risks facing humanity. We are currently focusing on potential risks from the development of human-level artificial intelligence*
 * [Campaign to Stop Killer Robots](http://www.stopkillerrobots.org/) - *calls for a pre-emptive and comprehensive ban on the development, production, and use of fully autonomous weapons*
+* [Machine Intelligence Research Institute](https://intelligence.org/) - We do foundational mathematical research to ensure smarter-than-human artificial intelligence has a positive impact
 
 ## Structural violence
 
