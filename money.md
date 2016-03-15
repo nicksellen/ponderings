@@ -124,6 +124,7 @@ How to structure it?
 
 ## how banking works
 
+* some banking modelling thing I didn't read yet - http://rsif.royalsocietypublishing.org/content/7/46/823
 * Banking Explained – Money and Credit  https://www.youtube.com/watch?v=fTTGALaRZoc
   * simple video with slightly patronising tone of voice
   * origin of word bank, "banco", italian for bench, where italians would exchange coins in lots of different currencies (in 11th century or something? perhaps)
