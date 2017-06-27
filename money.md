@@ -99,6 +99,7 @@ I'm intrigued by the "moneyless" movement. First thoughts (mostly off the top of
 
 * it's full of glaring contradictions e.g. "click here to buy the moneyless manifesto" (http://www.moneylessmanifesto.org/get-a-copy/) - I am sure the manifesto has a position on this, I don't think they *didn't notice* this!
   * *"If you do buy a normal paperback copy of this book, your money is going towards two things – the cost of printing a book in a money-based economy, which is a reality of our Age"* - sounds pessimistic about the reality of change before I've even "opened" the book!
+  * * Kasper: "another contradiction: I never made any money with working on projects like Hitchwiki, BeWelcome, Couchsurfing, Trashwiki, and more, but now I do make money with https://moneyless.org/"
 * does this mean we have to go back to barter? (I'd have to find a baker that needs some programming work done to get some bread)
   * *apparently* (I haven't read it yet) the David Graeber book mentioned on https://github.com/nicksellen/ponderings/blob/master/recommendations.md outlines the *myth* of the barter system being the predecessor, that really there is a more informal way of exchanging that actually works very well (and people do it by default, and still do now). the term is "social debt".
 * does it *really* need to be *totally* moneyless, can't the role of money just be reduced. why be so binary about it?
