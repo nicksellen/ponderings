@@ -21,8 +21,7 @@ They are not as deep-thinking as I had hoped, the focus is much more on policy i
 
 > the IEA seeks to calmly and rationally put the case for a greater role for markets and a smaller role for the state.
 
-This is from the IEA (a neoliberal thinktank) in the preface, and provides a hint that not questioning the basic premises of neoliberal ideology is not of interest to them.
-
+This is from the IEA (a neoliberal thinktank) in the preface, and provides a hint of their unquestioning belief in neoliberal ideology.
 
 Hopefully I will write some more extensive thoughts on it in the future with some quotes from the book :)
 
