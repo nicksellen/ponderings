@@ -13,6 +13,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [religion](religion.md) - my thoughts on religion/atheism/humanism, scary!
 * [drugs](drugs.md) - drug use/policy
 * [communications](communications.md) - how to communicate (with me)
+* [books](books.md) - books I read, or am reading
 * [miscellaneous](misc.md) - other stuff, I don't know where to put yet
 
 ## NAQ
@@ -33,7 +34,7 @@ Discussion happens [over here](https://github.com/nicksellen/ponderings/issues) 
   * news and media normally tell gossipy stories about anything but the underlying topic
   * in-person debate usually veers dramatically off-course and debates a well-worn set of less interesting topics instead
   * blogs or "point-in-time" publishing systems don't produce an always-up-to-date structured body of thoughts
-  
+
 ### Why on github?
 
 The first few people I showed this to thought github is just for code, but:
