@@ -124,6 +124,17 @@ The challenge I would like to put down is that by being purist/absolutist/emotio
 
 Another anti-absolutism idea: if I eat only a small amount of meat, then this level of consumption is not responsible for the the scale of the meat industry (this does not address the animal consciousness perspective).
 
+I maybe didn't write so much about my personal perspective, so here goes:
+- I am most concerned about the environmental aspect of animal consumption
+- I do not get very emotional about animal suffering, although would like to minimise it
+- I do not care much about animal sentience stuff, I distinguish humans from non-humans quite clearly
+- I am probably a bit inconsistent (I like to make relationships with cats and dogs, and probably would not eat them)
+- I would not be very interested to kill an animal in order to eat it (I am also not interested in building a train in order to ride it)
+- I reject most purist/absolutist perspectives by default, on the basis that simple is often wrong (but not always...)
+- I aim to keep my meat consumption at a level that would be environmentally sustainable if everyone in the world did the same
+- I am not very persuadable (but feel free to try, ideally doing so being aware of all the stuff I wrote here, which I guess you are if you're reading this...)
+- I prefer the "system" approach to change (laws, cultures, economics) not individual morality (I think most people will never care enough)
+
 I am not entirely happy with this document yet, far too rambling a bit incoherant probably. But enough for now :)
 
 Write thoughts/questions/comments/insults in the issues section!
