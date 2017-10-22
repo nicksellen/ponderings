@@ -14,6 +14,7 @@ This is the home for my ponderings of life. A public collection in my in-progres
 * [drugs](drugs.md) - drug use/policy
 * [communications](communications.md) - how to communicate (with me)
 * [books](books.md) - books I read, or am reading
+* [animals](animals.md) - some stuff mostly about veganism
 * [miscellaneous](misc.md) - other stuff, I don't know where to put yet
 
 ## NAQ
