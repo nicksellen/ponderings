@@ -49,7 +49,7 @@ One of the main issues I had with it is there is a strong point made about how l
 
 _Gerald Weinberg_
 
-I became a fan of Weinberg after reading the short book [Are Your Lights On](http://www.geraldmweinberg.com/Site/AYLO.html) which guided me to look deeper to think about what the _real_ problem in a given situation is.
+I became a fan of Weinberg after reading the short book [Are Your Lights On](https://leanpub.com/areyourlightson) which guided me to look deeper to think about what the _real_ problem in a given situation is.
 
 I would probably enjoy any of his books, I love his casual style, and unconventional thinking. He is always looking at the surprising realities, rather than the formal structures or processes.
 
@@ -61,7 +61,7 @@ It leads him to a very organic, consensus-based, and personal approach to leader
 
 > To become a technical leader, it’s not sufficient to know what goes into leadership. No matter how much you know intellectually, you will find yourself sorely tested by the practical realities of changing yourself.
 
-He is always careful to understand the context in which a particular rule/guideline/principle will apply and what it's limitations are (that topic is dealt with in much more depth in [An Introduction to General Systems Thinking](http://www.geraldmweinberg.com/Site/General_Systems.html)).
+He is always careful to understand the context in which a particular rule/guideline/principle will apply and what it's limitations are (that topic is dealt with in much more depth in [An Introduction to General Systems Thinking](https://leanpub.com/generalsystemsthinking)).
 
 Each chapter ends with questions to ask yourself, some of the ones I liked were:
 
