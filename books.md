@@ -1,5 +1,13 @@
 # books
 
+## Reinventing Liberalism: Early Neoliberalism in Context, 1920 – 1947
+
+_Ola Innset_
+
+A PhD thesis looking at the early history of Neoliberalism.
+
+See [notes](books/revinventing-liberalism.md).
+
 ## A Time for Choosing: Free Enterprise in Twenty-First Century Britain
 
 _T. NA and The Free Enterprise Group_
